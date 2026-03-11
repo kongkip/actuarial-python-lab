@@ -1,6 +1,6 @@
 # Actuarial Python Lab: Bridging the Gap Between Risk Theory and Software Engineering
 
-## 🚀 Overview
+## Overview
 
 **Actuarial Python Lab** is a comprehensive repository dedicated to the digital transformation of traditional actuarial science. While actuarial education provides a rigorous foundation in mathematics and statistics, the modern industry demands the ability to implement these models within scalable, automated, and reproducible software environments.
 
@@ -8,7 +8,7 @@ This repository serves as a bridge, translating complex actuarial theorems into 
 
 ---
 
-## 🏗 Repository Structure
+## Repository Structure
 
 The project is organized into 10 core actuarial domains, covering both traditional insurance and "wider fields" like Banking, Health-Tech, and Data Science.
 
@@ -25,7 +25,7 @@ The project is organized into 10 core actuarial domains, covering both tradition
 
 ---
 
-## 📖 Module Format
+## Module Format
 
 Every subdomain is documented via **Jupyter Notebooks** structured as follows:
 
@@ -36,7 +36,7 @@ Every subdomain is documented via **Jupyter Notebooks** structured as follows:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.x
 * **Data Analysis:** Pandas, NumPy
@@ -46,7 +46,7 @@ Every subdomain is documented via **Jupyter Notebooks** structured as follows:
 
 ---
 
-## 🎯 Purpose of this Project
+## Purpose of this Project
 
 This lab was developed to demonstrate a unique "Hybrid" skill set:
 
@@ -56,7 +56,7 @@ This lab was developed to demonstrate a unique "Hybrid" skill set:
 
 ---
 
-## 📬 Contact & Collaboration
+## Contact & Collaboration
 
 I am an **Actuarial Developer** passionate about the intersection of finance, risk, and technology.
 
