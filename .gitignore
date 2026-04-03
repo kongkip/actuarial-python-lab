@@ -2,3 +2,6 @@
 .idea
 .vscode
 .jupyter
+venv
+__pycache__
+*.pyc
